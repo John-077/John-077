@@ -4,10 +4,13 @@
  ---
 I'm a passionate "Full Stack Web Developer" based in Ethiopia, dedicated to crafting modern, scalable, and high-performance web applications. 
 With strong expertise in the "MERN Stack", I love turning complex ideas into clean, real-world digital solutions. 
+---
 
- .💡 "The secret to creativity is knowing how to find your sources... and mine are usually Stack Overflow & Coffee." 😎
- .🌱 Currently Learning: Next.js and TypeScript.
- .🤝 Available for freelance projects, technical collaborations, and innovative opportunities.
+* 💡 "The secret to creativity is knowing how to find your sources... and mine are usually Stack Overflow & Coffee." 😎
+* 🌱 Currently deepening my skills in **Next.js** and **TypeScript**.
+* 🤝 Available for freelance projects, technical collaborations, and innovative opportunities.
+
+---
 
  🛠️ My Tech Stack
 ---
