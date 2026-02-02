@@ -1,16 +1,27 @@
-## Hi there 👋
+ 👋 Hi, I'm Yohanis!
 
-<!--
-**John-077/John-077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🚀 About Me
+I'm a passionate "Full Stack Web Developer" based in Ethiopia, dedicated to crafting modern, scalable, and high-performance web applications. 
+With strong expertise in the "MERN Stack", I love turning complex ideas into clean, real-world digital solutions. 
 
-Here are some ideas to get you started:
+ 💡 "The secret to creativity is knowing how to find your sources... and mine are usually Stack Overflow & Coffee." 😎
+🌱 Currently Learning: Next.js and TypeScript.
+ 🤝 Available for freelance projects, technical collaborations, and innovative opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠️ My Tech Stack
+
+Frontend:
+- React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap,jQuery
+
+Backend:
+- Node.js, Express.js, MySQL, MongoDB
+
+Tools & Platforms:
+- Git, GitHub, RESTful APIs, Postman
+
+ 🌐 Let's Connect
+- LinkedIn:https://www.linkedin.com/in/yohanisbedada
+- 📧 Email: yohanisbedada98@gmail.com
+
+---
+"Building tomorrow's web, today."
